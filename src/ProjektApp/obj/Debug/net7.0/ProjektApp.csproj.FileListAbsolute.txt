@@ -1,0 +1,15 @@
+C:\Users\Paulina Grześkowiak\Projekt\src\ProjektApp\bin\Debug\net7.0\ProjektApp.exe
+C:\Users\Paulina Grześkowiak\Projekt\src\ProjektApp\bin\Debug\net7.0\ProjektApp.deps.json
+C:\Users\Paulina Grześkowiak\Projekt\src\ProjektApp\bin\Debug\net7.0\ProjektApp.runtimeconfig.json
+C:\Users\Paulina Grześkowiak\Projekt\src\ProjektApp\bin\Debug\net7.0\ProjektApp.dll
+C:\Users\Paulina Grześkowiak\Projekt\src\ProjektApp\bin\Debug\net7.0\ProjektApp.pdb
+C:\Users\Paulina Grześkowiak\Projekt\src\ProjektApp\obj\Debug\net7.0\ProjektApp.csproj.AssemblyReference.cache
+C:\Users\Paulina Grześkowiak\Projekt\src\ProjektApp\obj\Debug\net7.0\ProjektApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paulina Grześkowiak\Projekt\src\ProjektApp\obj\Debug\net7.0\ProjektApp.AssemblyInfoInputs.cache
+C:\Users\Paulina Grześkowiak\Projekt\src\ProjektApp\obj\Debug\net7.0\ProjektApp.AssemblyInfo.cs
+C:\Users\Paulina Grześkowiak\Projekt\src\ProjektApp\obj\Debug\net7.0\ProjektApp.csproj.CoreCompileInputs.cache
+C:\Users\Paulina Grześkowiak\Projekt\src\ProjektApp\obj\Debug\net7.0\ProjektApp.dll
+C:\Users\Paulina Grześkowiak\Projekt\src\ProjektApp\obj\Debug\net7.0\refint\ProjektApp.dll
+C:\Users\Paulina Grześkowiak\Projekt\src\ProjektApp\obj\Debug\net7.0\ProjektApp.pdb
+C:\Users\Paulina Grześkowiak\Projekt\src\ProjektApp\obj\Debug\net7.0\ProjektApp.genruntimeconfig.cache
+C:\Users\Paulina Grześkowiak\Projekt\src\ProjektApp\obj\Debug\net7.0\ref\ProjektApp.dll
